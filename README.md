@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathameshpanse51&label=Profile%20views&color=0ED573&style=flat" alt="prathameshpanse51" /> </p>
 
-- 🔭 I’m currently working on [Event-Management-Website](https://github.com/Deepraj0502/EventManager)
+- 🔭 I’m currently working on [Event-Management-Website](https://evento-em.netlify.app/)
 
 - 🌱 I’m currently learning *MongoDB,Node JS,Express JS*
   
