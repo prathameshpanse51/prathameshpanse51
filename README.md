@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *MongoDB,Node JS,Express JS*
   
-- 👨‍💻 All of my projects are available at [Prathamesh Panse](https://deeprajpagare.netlify.app/)
+- 👨‍💻 All of my projects are available at [Prathamesh Panse](https://prathameshpanse.netlify.app/)
 
 - 💬 Ask me about *HTML, CSS, React JS, PHP, MySQL, pgSQL, Python*
 
