@@ -6,6 +6,8 @@
 - 🔭 I’m currently working on [Event-Management-Website](https://github.com/Deepraj0502/EventManager)
 
 - 🌱 I’m currently learning *MongoDB,Node JS,Express JS*
+  
+- 👨‍💻 All of my projects are available at [Prathamesh Panse](https://deeprajpagare.netlify.app/)
 
 - 💬 Ask me about *HTML, CSS, React JS, PHP, MySQL, pgSQL, Python*
 
