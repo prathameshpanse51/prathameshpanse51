@@ -3,9 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathameshpanse51&label=Profile%20views&color=0ED573&style=flat" alt="prathameshpanse51" /> </p>
 
-# 💫 About Me:
 - 🔭 I’m currently working on [Event-Management-Website](https://evento-em.netlify.app/)<br><br> 
-- 🌱 I’m currently learning *MongoDB,Node JS,Express JS*<br>  <br>- 👨‍💻 All of my projects are available at [Prathamesh Panse](https://prathameshpanse.netlify.app/)<br><br>- 💬 Ask me about *HTML, CSS, React JS, MySQL, Firebase*<br><br>- 📫 How to reach me *prathameshpanse500@gmail.com*<br><br>- ⚡ Fun fact *Have a great sense of humour*
+- 🌱 I’m currently learning *MongoDB,Node JS,Express JS*<br><br>
+- 👨‍💻 All of my projects are available at [Prathamesh Panse](https://prathameshpanse.netlify.app/)<br><br>
+- 💬 Ask me about *HTML, CSS, React JS, MySQL, Firebase*<br><br>
+- 📫 How to reach me *prathameshpanse500@gmail.com*<br><br>
+- ⚡ Fun fact *Have a great sense of humour*
 
 
 ## 🌐 Socials:
